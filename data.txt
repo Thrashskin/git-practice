@@ -1,0 +1,3 @@
+Name: José
+Age: 30
+Favourite color: blood red
